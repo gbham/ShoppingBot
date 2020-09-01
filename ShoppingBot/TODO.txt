@@ -1,0 +1,2 @@
+﻿- change all text to lowercase when doing comparisons to avoid case sensitivity issues
+- Add option to change how many of the desired item is bought before exiting the main loop
